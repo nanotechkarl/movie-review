@@ -1,0 +1,3 @@
+[submodule "streaming-app"]
+	path = streaming-app
+	url = https://github.com/nanotechkarl/streaming-app

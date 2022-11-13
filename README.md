@@ -12,6 +12,12 @@ A collection of movies with reviews from people.
 
 ![moviereview](./mr.png)
 
+# Features
+
+- View and search movies together with their actors and reviews(Public)
+- Give reviews and ratings to movies(User only)
+- Add movies and actors using the dashboard page(Admin only)
+
 # Technologies used:
 
 - React - Typescript
@@ -21,12 +27,6 @@ A collection of movies with reviews from people.
 - MongoDB
 - Sonarqube
 - React Testing Library + Jest
-
-# Features
-
-- View movies together with their actors and reviews(Public)
-- Give reviews and ratings to movies(User only)
-- Add movies and actors using the dashboard page(Admin only)
 
 # Models
 
