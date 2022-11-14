@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "6369d063f9965ee9edc6c4ff"
+  },
+  "email": "root@example.com",
+  "password": "$2a$10$izSRY6ATru6LUhYHm2fGIeMtH85RtzQR2fXRVhQOeKIYXV3JtiaaO",
+  "firstName": "Karl1",
+  "lastName": "Salas",
+  "approved": true,
+  "permissions": [
+    "root",
+    "admin"
+  ]
+},{
+  "_id": {
+    "$oid": "636a600aba0f7812960f42d5"
+  },
+  "email": "root1@example.com",
+  "password": "$2a$10$LVZKtSqqLY0tO2IHpell0.JdvmRjnpJTkoJlPRoSdO/CLkKxqdMMy",
+  "firstName": "apple",
+  "lastName": "Salas",
+  "approved": true,
+  "permissions": [
+    "user"
+  ]
+},{
+  "_id": {
+    "$oid": "636a6480ba0f7812960f42d7"
+  },
+  "email": "example@mail.com",
+  "password": "$2a$10$S/H8FA1nFoSlGKDFmkyv2.dbNqjTOk9jCgAlWCIU34Co.3.qN93be",
+  "firstName": "test",
+  "lastName": "test",
+  "approved": true,
+  "permissions": [
+    "user"
+  ]
+},{
+  "_id": {
+    "$oid": "636d2975e52ebd1658a1bc8c"
+  },
+  "email": "test@example.com",
+  "password": "$2a$10$cLokuLElP9HJ5spHrwIdn.qM5E8wr.xbKV50kK5pFYsyX/TFy.PbW",
+  "firstName": "test",
+  "lastName": "doe",
+  "approved": true,
+  "permissions": [
+    "user"
+  ]
+},{
+  "_id": {
+    "$oid": "636dfa29de2f7c3380c9533f"
+  },
+  "email": "mark@gmail.com",
+  "password": "$2a$10$FxsHp.yop8gd/BEqs5csaebED1EHjC6PPY8sAaioBsJ1bcECeGalC",
+  "firstName": "mark",
+  "lastName": "mark",
+  "approved": true,
+  "permissions": [
+    "user"
+  ]
+},{
+  "_id": {
+    "$oid": "6371923abbf3b0f854e4d563"
+  },
+  "email": "root2@example.com",
+  "password": "$2a$10$2S9WrQkVRUBhzq5V0gb1pustkfDUQ4RvId8FMx4JXy2sMGviEsQQO",
+  "firstName": "Root",
+  "lastName": "App",
+  "approved": true,
+  "permissions": [
+    "user"
+  ]
+}]

@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "6369d2cdf9965ee9edc6c503"
+  },
+  "firstName": "Harisson",
+  "lastName": "Ford",
+  "gender": "male",
+  "age": 23,
+  "imgUrl": "https://nationaltoday.com/wp-content/uploads/2022/06/25-Harrison-Ford.jpg"
+},{
+  "_id": {
+    "$oid": "6369d34af9965ee9edc6c507"
+  },
+  "firstName": "Scarlett",
+  "lastName": "Johansson",
+  "gender": "female",
+  "age": 32,
+  "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_.jpg"
+},{
+  "_id": {
+    "$oid": "6369d368f9965ee9edc6c509"
+  },
+  "firstName": "Tom",
+  "lastName": "Cruise",
+  "gender": "male",
+  "age": 32,
+  "imgUrl": "https://images.mubicdn.net/images/cast_member/2184/cache-2992-1547409411/image-w856.jpg?size=800x"
+},{
+  "_id": {
+    "$oid": "636a5fe3ba0f7812960f42d3"
+  },
+  "firstName": "Tom",
+  "lastName": "Hanks",
+  "gender": "male",
+  "age": 32,
+  "imgUrl": "https://flxt.tmsimg.com/assets/62982_v9_bb.jpg"
+},{
+  "_id": {
+    "$oid": "63718554472eb01aedea9b19"
+  },
+  "firstName": "Will",
+  "lastName": "Smith",
+  "gender": "male",
+  "age": 42,
+  "imgUrl": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_UY264_CR2,0,178,264_AL_.jpg"
+},{
+  "_id": {
+    "$oid": "637185aa472eb01aedea9b1b"
+  },
+  "firstName": "Brad",
+  "lastName": "Pitt",
+  "gender": "male",
+  "age": 42,
+  "imgUrl": "https://flxt.tmsimg.com/assets/1366_v9_bc.jpg"
+},{
+  "_id": {
+    "$oid": "6371863a472eb01aedea9b1d"
+  },
+  "firstName": "keanuu",
+  "lastName": "reeves",
+  "gender": "male",
+  "age": 32,
+  "imgUrl": "https://cdn.britannica.com/11/215011-050-3127A07E/American-actor-Keanu-Reeves-2014.jpg"
+},{
+  "_id": {
+    "$oid": "63718679472eb01aedea9b1f"
+  },
+  "firstName": "Emma",
+  "lastName": "Stone",
+  "gender": "Female",
+  "age": 25,
+  "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Emma_Stone_at_Maniac_UK_premiere_%28cropped%29.jpg"
+},{
+  "_id": {
+    "$oid": "63718871472eb01aedea9b22"
+  },
+  "firstName": "Rupert",
+  "lastName": "Grint",
+  "gender": "male",
+  "age": 32,
+  "imgUrl": "https://flxt.tmsimg.com/assets/247025_v9_bc.jpg"
+},{
+  "_id": {
+    "$oid": "63718922472eb01aedea9b24"
+  },
+  "firstName": "Daniel",
+  "lastName": "Radcliffe",
+  "gender": "male",
+  "age": 12,
+  "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Daniel_Radcliffe_in_July_2015.jpg/640px-Daniel_Radcliffe_in_July_2015.jpg"
+},{
+  "_id": {
+    "$oid": "63718959472eb01aedea9b26"
+  },
+  "firstName": "Emma ",
+  "lastName": "Watson",
+  "gender": "male",
+  "age": 12,
+  "imgUrl": "https://i0.wp.com/abtc.ng/wp-content/uploads/2021/03/Emma-Watson-Image-Source-Pinterest.jpg?fit=1024%2C1280&ssl=1"
+},{
+  "_id": {
+    "$oid": "63718ab5bbf3b0f854e4d54d"
+  },
+  "firstName": "Rocky",
+  "lastName": "Balboa",
+  "gender": "male",
+  "age": 12,
+  "imgUrl": "https://flxt.tmsimg.com/assets/1682_v9_ba.jpg"
+},{
+  "_id": {
+    "$oid": "63719139bbf3b0f854e4d55e"
+  },
+  "firstName": "Chris",
+  "lastName": "Pratt",
+  "gender": "male",
+  "age": 32,
+  "imgUrl": "https://resizing.flixster.com/dpI-g-9p6W_Nlhc2f0-cwEmM00Q=/218x280/v2/https://flxt.tmsimg.com/assets/249381_v9_bb.jpg"
+},{
+  "_id": {
+    "$oid": "6371917cbbf3b0f854e4d560"
+  },
+  "firstName": "Anya",
+  "lastName": "Taylor-Joy",
+  "gender": "female",
+  "age": 32,
+  "imgUrl": "https://media.vogue.co.uk/photos/6239ce45447adeae6306aa7b/2:3/w_2560%2Cc_limit/GettyImages-1374937144.jpg"
+}]
